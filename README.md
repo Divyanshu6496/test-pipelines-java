@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/divyanshumishra0545/Div_Tieto/_apis/build/status/Divyanshu6496.test-pipelines-java?branchName=main)](https://dev.azure.com/divyanshumishra0545/Div_Tieto/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
